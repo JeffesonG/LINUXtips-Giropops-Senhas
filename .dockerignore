@@ -1,0 +1,16 @@
+# Ignorar o diretório do ambiente virtual
+venv/
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos de controle de versão
+.git
+.gitignore
+
+# Ignorar arquivos e diretórios relacionados a IDEs
+.vscode/
+.idea/
+*.swp
